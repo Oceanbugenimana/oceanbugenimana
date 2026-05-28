@@ -76,6 +76,10 @@
 ## 📫 Contact Me
 
 📧 Email: oceanbugenimana@gmail.com  
+📱 WhatsApp: +250 794 764 607
+📸 Instagram: @ocean_osee
+💼 LinkedIn: Ocean Bugenimana
+
   
 
 
