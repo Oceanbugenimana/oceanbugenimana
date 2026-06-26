@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Ocean Bugenimana
 
-💻 Software Engineer | SaaS Builder  
+💻 Fullstack Developer | SaaS Builder  
 🚀 I build production-grade systems that solve real-world problems  
-🌍 Focused on scalable software for retail, automation, and African markets  
+🌍 Focused on scalable software for wolrd  markets Especially African  
 
 ---
 
 ## 🧠 About Me
 
-💻 Software Engineer building scalable SaaS systems  
-🏪 Focused on inventory systems & real-world business software  
+💻 Fullstack Developer building scalable SaaS systems  
+🏪 Focused on  real-world business software  
 ⚙️ Designing backend architectures and automation tools  
 🚀 Turning operational problems into production-ready systems  
 🌍 Building software solutions for African markets  
@@ -21,23 +21,22 @@
 
 ### 🎨 Frontend
 - React.js ⚛️
+- Next.js
 - Tailwind CSS 🎨
 - Flutter 📱
 
 ### ⚙️ Backend
 - Node.js 🟢
+- Next.js
 - Express 🚂
 - Python 🐍
 
 ### 🗄️ Databases
 - MySQL 🐬
 - MongoDB 🍃
+- Postgre
 
-### 🔐 Core Concepts
-- REST APIs 🌐
-- JWT Authentication 🔑
-- Role-Based Access Control 👥
-- Multi-tenant Systems 🏢
+
 
 ---
 
@@ -62,13 +61,7 @@
 
 🔗 explore-rwanda
 
----
 
-## 🎯 Goals
-
-🚀 Build scalable SaaS products for African markets  
-🌍 Solve real operational problems with software  
-🤝 Contribute to impactful open-source projects  
  
 
 ---
