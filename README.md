@@ -1,186 +1,319 @@
-# 👋 Hi, I'm Ocean Bugenimana
+<!-- ===================================================== -->
+<!--                OCEAN BUGENIMANA README                -->
+<!-- ===================================================== -->
 
-### Full-Stack Software Engineer • SaaS Developer • AI Solutions Engineer
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Ocean Bugenimana Banner"/>
+</p>
 
-I build modern software that helps businesses grow, automate workflows, and solve real-world problems.
+<h1 align="center">
+Hi 👋, I'm Ocean Bugenimana
+</h1>
 
-My expertise covers the complete software development lifecycle—from designing intuitive user interfaces to building scalable backend systems, architecting SaaS platforms, integrating Artificial Intelligence, and deploying production-ready applications.
+<h3 align="center">
+Full-Stack Software Engineer • SaaS Developer • AI Solutions Engineer
+</h3>
 
-I enjoy transforming ideas into reliable digital products that are fast, secure, scalable, and built for long-term success.
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=7F5AF0&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;SaaS+Developer;AI+Solutions+Engineer;Building+Scalable+Digital+Products;Web+%7C+Mobile+%7C+AI+%7C+Cloud)](https://git.io/typing-svg)
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Oceanbugenimana&style=for-the-badge&color=7F5AF0)
+
+</p>
 
 ---
 
-## 🚀 What I Do
+# 💫 About Me
 
-* 🌐 Modern Web Applications
-* 📱 Cross-Platform Mobile Applications
-* 🏢 Enterprise Software Systems
-* ☁️ SaaS Product Development
-* 🤖 AI-Powered Applications
-* 💼 Business Automation Solutions
-* 🔗 REST API Development & Integration
-* 📊 Admin Dashboards & Analytics
-* 🛒 E-commerce Platforms
-* 🏨 Hotel, Healthcare & Education Systems
-* ⚡ Performance Optimization
-* 🔒 Secure Authentication & Authorization
-* 🚀 Cloud Deployment & DevOps
+I'm a **Full-Stack Software Engineer**, **SaaS Developer**, and **AI Solutions Engineer** passionate about building software that solves real business problems.
+
+I specialize in designing scalable systems, AI-powered applications, enterprise software, and cloud-ready SaaS products.
+
+I transform ideas into modern digital experiences that are fast, secure, responsive, and built for growth.
 
 ---
 
-## 💻 Tech Stack
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/Oceanbugenimana">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_TWITTER">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:oceanbugenimana@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 Coding Mode
+
+<p align="center">
+
+<img width="550" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+</p>
+
+---
+
+# 🚀 What I Build
+
+✅ Modern Web Applications
+
+✅ Cross-Platform Mobile Apps
+
+✅ Enterprise Software
+
+✅ AI Applications
+
+✅ SaaS Platforms
+
+✅ REST APIs
+
+✅ Business Automation
+
+✅ Inventory Systems
+
+✅ Hotel Systems
+
+✅ Hospital Systems
+
+✅ School Systems
+
+✅ CRM & ERP
+
+✅ E-Commerce
+
+✅ Cloud Solutions
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![React](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
 
-### AI & Cloud
+### Cloud & DevOps
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Cloud](https://skillicons.dev/icons?i=docker,git,github,linux,nginx)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,postman,figma)
 
 ---
 
-## 🛠️ Core Expertise
+# 🏆 GitHub Trophies
 
-* Full-Stack Development
-* SaaS Architecture
-* AI Integration & Automation
-* Web Development
-* Mobile App Development
-* Enterprise Software Development
-* REST API Development
-* Database Design
-* Authentication & Security
-* Multi-Tenant Systems
-* Business Automation
-* Cloud Deployment
-* Performance Optimization
-* Scalable Software Architecture
-* UI/UX Implementation
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Oceanbugenimana&theme=tokyonight&no-frame=true&column=4&margin-w=10"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oceanbugenimana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oceanbugenimana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Oceanbugenimana&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Ocean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oceanbugenimana&theme=tokyo-night&hide_border=true)](https://github.com/Oceanbugenimana)
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Oceanbugenimana/Oceanbugenimana/output/github-contribution-grid-snake-dark.svg">
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📦 GENZURA — Inventory Intelligence System *(Flagship)*
+## 📦 GENZURA
 
-A production-grade **multi-tenant Inventory SaaS Platform** designed for wholesalers, retailers, supermarkets, pharmacies, and growing businesses.
+### Inventory Intelligence SaaS
 
-**Key Features**
+Production-ready multi-tenant inventory management platform built for businesses.
 
-* Multi-store management
-* Inventory Intelligence
-* Sales & Purchase Management
-* AI Assistant
-* Analytics Dashboard
-* Customer & Supplier Management
-* Role-Based Access Control
-* Multi-language Support
-* Cloud Ready
+✔ Multi-Store
 
-🔗 **Repository:** `genzura`
+✔ AI Assistant
 
----
+✔ Analytics Dashboard
 
-### 🧠 FuturePath AI
+✔ Role Management
 
-An AI-powered platform that helps users make smarter decisions using intelligent recommendations, automation, and data-driven insights.
+✔ Cloud Ready
 
-**Highlights**
+**Stack**
 
-* AI Assistant
-* Personalized Guidance
-* Smart Recommendations
-* Interactive Dashboard
-
-🔗 **Repository:** `futurepath-ai`
+React • Node.js • Python • MySQL
 
 ---
 
-### 🇷🇼 Explore Rwanda
+## 🧠 FuturePath AI
 
-A modern platform designed to showcase Rwanda's tourism, culture, businesses, hotels, restaurants, events, and hidden destinations.
+AI-powered platform for planning, guidance, automation, and intelligent recommendations.
 
-**Highlights**
+✔ AI Assistant
 
-* Interactive Maps
-* Tourism Guide
-* Business Listings
-* Travel Experiences
-* Smart Search
+✔ Decision Support
 
-🔗 **Repository:** `explore-rwanda`
+✔ Smart Analytics
 
----
+✔ Personalized Guidance
 
-## 🌍 Currently Working On
+**Stack**
 
-* 🚀 Building scalable SaaS platforms
-* 🤖 AI-powered business applications
-* 📱 Cross-platform mobile apps
-* 🌐 Enterprise web systems
-* ⚡ Automation tools for businesses
+React • Node.js • OpenAI • Python
 
 ---
 
-## 📊 GitHub Stats
+## 🇷🇼 Explore Rwanda
 
+Modern tourism discovery platform showcasing Rwanda's attractions, hotels, restaurants, businesses, and events.
 
+✔ Interactive Maps
 
-```md
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&cardType=streak&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
+✔ Smart Search
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&cardType=langs&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
+✔ Booking Ready
 
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
+✔ Business Directory
+
+**Stack**
+
+React • Node.js • Maps API
+
+---
+
+# 🌱 Currently Learning
+
+- AI Agents
+- LangChain
+- MCP Servers
+- Docker
+- Kubernetes
+- Redis
+- AWS
+- Microservices
+- Advanced System Design
+- LLM Engineering
+
+---
+
+# 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   12 hrs ████████████░░░░░░ 46%
+
+React         9 hrs █████████░░░░░░░░░ 35%
+
+Python        3 hrs ███░░░░░░░░░░░░░░░ 12%
+
+SQL           1 hr █░░░░░░░░░░░░░░░░░ 5%
+
+Other         30 mins ░░░░░░░░░░░░░░░░░░ 2%
 ```
 
----
-
-## 🤝 Let's Build Something Amazing
-
-I'm always open to:
-
-* Freelance Projects
-* SaaS Collaborations
-* Startup Partnerships
-* Open Source Contributions
-* Full-Time Opportunities
-* Technical Consulting
+<!--END_SECTION:waka-->
 
 ---
 
-## 📫 Contact Me
+# 🎯 2026 Goals
 
-📧 **Email:** [oceanbugenimana@gmail.com](mailto:oceanbugenimana@gmail.com)
+- 🚀 Launch GENZURA SaaS
+- 🤖 Build AI Products
+- 📱 Publish Mobile Apps
+- 🌍 Contribute to Open Source
+- ☁️ Learn Kubernetes
+- 🏆 Become a Senior Software Engineer
 
 ---
 
-> **"Great software isn't just built—it is engineered to solve real problems, scale with confidence, and create lasting impact."**
+# 🤝 Open For
+
+✔ Freelance Projects
+
+✔ Full-Time Opportunities
+
+✔ Startup Collaborations
+
+✔ SaaS Partnerships
+
+✔ AI Projects
+
+✔ Technical Consulting
+
+---
+
+# 📫 Contact
+
+📧 oceanbugenimana@gmail.com
+
+🌐 YOUR_PORTFOLIO
+
+---
+
+# 💬 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving my repositories a star ⭐
+
+</p>
