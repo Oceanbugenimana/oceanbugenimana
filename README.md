@@ -2,9 +2,7 @@
 <!--                OCEAN BUGENIMANA README                -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="images/banner.png" width="100%" alt="Ocean Bugenimana Banner"/>
-</p>
+
 
 <h1 align="center">
 Hi 👋, I'm Ocean Bugenimana
@@ -47,7 +45,7 @@ I believe great software isn't just about writing code—it's about creating rel
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -61,34 +59,8 @@ I believe great software isn't just about writing code—it's about creating rel
 
 </p>
 
----
 
 
----
-
-## 🎯 Core Expertise
-
-✅ Full-Stack Development
-
-✅ SaaS Architecture
-
-✅ AI Integration
-
-✅ REST API Development
-
-✅ Cloud Deployment
-
-✅ Enterprise Software
-
-✅ Mobile Development
-
-✅ UI/UX Implementation
-
-✅ Database Design
-
-✅ Performance Optimization
-
-✅ System Architecture
 
 ---
 
@@ -114,33 +86,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 ![Tools](https://skillicons.dev/icons?i=vscode,postman,figma)
 
----
 
-
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Oceanbugenimana&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oceanbugenimana&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Oceanbugenimana&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Ocean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Oceanbugenimana&theme=tokyo-night&hide_border=true)](https://github.com/Oceanbugenimana)
-
----
 
 
 
@@ -158,11 +104,6 @@ I believe great software isn't just about writing code—it's about creating rel
 
 
 
----
-
-
-
---
 
 ---
 
@@ -194,11 +135,6 @@ I'm interested in collaborating on:
 
 ---
 
-# 💬 Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <p align="center">
 
