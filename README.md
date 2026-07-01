@@ -11,7 +11,7 @@ Hi 👋, I'm Ocean Bugenimana
 </h1>
 
 <h3 align="center">
-Full-Stack Software Engineer • SaaS Developer • AI Solutions Engineer
+Software Developer  | Building AI-Powered SaaS, Enterprise Systems & Modern Digital Products
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@ Full-Stack Software Engineer • SaaS Developer • AI Solutions Engineer
 
 # 💫 About Me
 
-I'm a **Full-Stack Software Engineer**, **SaaS Developer**, and **AI Solutions Engineer** passionate about building software that solves real business problems.
+I'm a **Software Developer**, and **Building AI-Powered SaaS**, **Enterprise Systems & Modern Digital Products** passionate about building software that solves real business problems.
 
 I specialize in designing scalable systems, AI-powered applications, enterprise software, and cloud-ready SaaS products.
 
@@ -132,14 +132,6 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Oceanbugenimana&theme=tokyonight&no-frame=true&column=4&margin-w=10"/>
-
-</p>
-
 ---
 
 # 📊 GitHub Analytics
@@ -176,78 +168,22 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
-# 🚀 Featured Projects
-
-## 📦 GENZURA
-
-### Inventory Intelligence SaaS
-
-Production-ready multi-tenant inventory management platform built for businesses.
-
-✔ Multi-Store
-
-✔ AI Assistant
-
-✔ Analytics Dashboard
-
-✔ Role Management
-
-✔ Cloud Ready
-
-**Stack**
-
-React • Node.js • Python • MySQL
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📦 GENZURA | AI-powered Inventory Intelligence SaaS | React • Node • Python • MySQL |
+| 🧠 FuturePath AI | AI decision support platform | React • OpenAI • Node |
+| 🇷🇼 Explore Rwanda | Tourism discovery platform | React • Maps API |
 
 ---
 
-## 🧠 FuturePath AI
+## 🚧 Currently Building
 
-AI-powered platform for planning, guidance, automation, and intelligent recommendations.
+🚀 GENZURA — AI-Powered Inventory Intelligence SaaS
 
-✔ AI Assistant
+🤖 FuturePath AI — Intelligent Decision Support Platform
 
-✔ Decision Support
+🇷🇼 Explore Rwanda — Smart Tourism & Business Discovery Platform
 
-✔ Smart Analytics
-
-✔ Personalized Guidance
-
-**Stack**
-
-React • Node.js • OpenAI • Python
-
----
-
-## 🇷🇼 Explore Rwanda
-
-Modern tourism discovery platform showcasing Rwanda's attractions, hotels, restaurants, businesses, and events.
-
-✔ Interactive Maps
-
-✔ Smart Search
-
-✔ Booking Ready
-
-✔ Business Directory
-
-**Stack**
-
-React • Node.js • Maps API
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- LangChain
-- MCP Servers
-- Docker
-- Kubernetes
-- Redis
-- AWS
-- Microservices
-- Advanced System Design
-- LLM Engineering
 
 ---
 
@@ -282,19 +218,23 @@ Other         30 mins ░░░░░░░░░░░░░░░░░░ 2%
 
 ---
 
-# 🤝 Open For
+## 🤝 Let's Collaborate
 
-✔ Freelance Projects
+I'm interested in collaborating on:
 
-✔ Full-Time Opportunities
+🚀 Innovative SaaS Products
 
-✔ Startup Collaborations
+🤖 AI Applications & Automation
 
-✔ SaaS Partnerships
+🏢 Enterprise Software
 
-✔ AI Projects
+🌍 Open Source Projects
 
-✔ Technical Consulting
+📱 Web & Mobile Applications
+
+💼 Full-Time Software Engineering Opportunities
+
+🌐 Startup Partnerships
 
 ---
 
@@ -314,6 +254,10 @@ Other         30 mins ░░░░░░░░░░░░░░░░░░ 2%
 
 <p align="center">
 
-### ⭐ If you like my work, consider giving my repositories a star ⭐
+## 🚀 Turning ideas into products that people love to use.
+
+Always building.
+Always learning.
+Always improving.
 
 </p>
