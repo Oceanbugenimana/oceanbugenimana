@@ -20,11 +20,7 @@ Software Developer crafting scalable Web, Mobile & AI-powered Solutions
 
 </p>
 
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Oceanbugenimana&style=for-the-badge&color=7F5AF0)
-
-</p>
 
 ---
 
