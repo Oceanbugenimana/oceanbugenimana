@@ -155,11 +155,11 @@ A modern platform designed to showcase Rwanda's tourism, culture, businesses, ho
 
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OceanBugenimana&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oceanbugenimana&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanBugenimana&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oceanbugenimana&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OceanBugenimana&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Oceanbugenimana&theme=github-dark)
 ```
 
 ---
