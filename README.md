@@ -155,7 +155,7 @@ A modern platform designed to showcase Rwanda's tourism, culture, businesses, ho
 
 
 ```md
-[![GitHub Streak](https://streak-stats.demolab.com?user=Oceanbugenimana&theme=transparent&border_radius=4.7&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oceanbugenimana&theme=transparent&border_radius=4.7&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 ```
 
 ---
