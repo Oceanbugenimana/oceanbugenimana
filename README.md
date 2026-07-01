@@ -155,7 +155,11 @@ A modern platform designed to showcase Rwanda's tourism, culture, businesses, ho
 
 
 ```md
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oceanbugenimana&theme=transparent&border_radius=4.7&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&cardType=streak&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&cardType=langs&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
+
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Oceanbugenimana&theme=dracula&showBorder=false)](https://www.readmecodegen.com/custom-github-card-generator)
 ```
 
 ---
