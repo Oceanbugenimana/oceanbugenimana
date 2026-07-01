@@ -146,13 +146,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 ---
 
-# 🐍 Contributions
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Oceanbugenimana/Oceanbugenimana/output/github-contribution-grid-snake-dark.svg">
-
-</p>
 
 ---
 
@@ -166,35 +160,11 @@ I believe great software isn't just about writing code—it's about creating rel
 
 ---
 
- ## 🚧 Currently Building
 
-🚀 GENZURA — AI-Powered Inventory Intelligence SaaS
-
-🤖 FuturePath AI — Intelligent Decision Support Platform
-
-🇷🇼 Explore Rwanda — Smart Tourism & Business Discovery Platform
-
-🌐 Personal Portfolio v2
 
 ---
 
-# 📅 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   12 hrs ████████████░░░░░░ 46%
-
-React         9 hrs █████████░░░░░░░░░ 35%
-
-Python        3 hrs ███░░░░░░░░░░░░░░░ 12%
-
-SQL           1 hr █░░░░░░░░░░░░░░░░░ 5%
-
-Other         30 mins ░░░░░░░░░░░░░░░░░░ 2%
-```
-
-<!--END_SECTION:waka-->
 
 --
 
@@ -214,7 +184,7 @@ I'm interested in collaborating on:
 
 📱 Web & Mobile Applications
 
-💼 Full-Time Software Engineering Opportunities
+💼 Full-Time Software Developer Opportunities
 
 🌐 Startup Partnerships
 
