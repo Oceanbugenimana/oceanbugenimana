@@ -45,11 +45,11 @@ I believe great software isn't just about writing code—it's about creating rel
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="">
+<a href="https://www.linkedin.com/in/ocean-bugenimana-a9208635b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_TWITTER">
+<a href="https://x.com/Bg_ocea">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
@@ -68,7 +68,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap)
+![React](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind)
 
 ### Backend
 
@@ -80,7 +80,7 @@ I believe great software isn't just about writing code—it's about creating rel
 
 ### Cloud & DevOps
 
-![Cloud](https://skillicons.dev/icons?i=docker,git,github,linux,nginx)
+![Cloud](https://skillicons.dev/icons?i=docker,git,github,linux)
 
 ### Tools
 
