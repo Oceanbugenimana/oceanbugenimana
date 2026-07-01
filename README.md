@@ -11,7 +11,7 @@ Hi 👋, I'm Ocean Bugenimana
 </h1>
 
 <h3 align="center">
-Software Developer  | Building AI-Powered SaaS, Enterprise Systems & Modern Digital Products
+Software Developer crafting scalable Web, Mobile & AI-powered Solutions
 </h3>
 
 <p align="center">
@@ -28,13 +28,14 @@ Software Developer  | Building AI-Powered SaaS, Enterprise Systems & Modern Digi
 
 ---
 
-# 💫 About Me
 
-I'm a **Software Developer**, and **Building AI-Powered SaaS**, **Enterprise Systems & Modern Digital Products** passionate about building software that solves real business problems.
+## 💫 About Me
 
-I specialize in designing scalable systems, AI-powered applications, enterprise software, and cloud-ready SaaS products.
+I'm a Software Engineer passionate about building scalable web applications, mobile apps, AI-powered solutions, enterprise software, and SaaS products that solve real-world business challenges.
 
-I transform ideas into modern digital experiences that are fast, secure, responsive, and built for growth.
+From frontend experiences to backend architecture, APIs, databases, and cloud deployment, I enjoy transforming ideas into secure, high-performance digital products that people love to use.
+
+I believe great software isn't just about writing code—it's about creating reliable, scalable, and impactful solutions.
 
 ---
 
@@ -66,45 +67,32 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
-# 👨‍💻 Coding Mode
-
-<p align="center">
-
-<img width="550" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-</p>
 
 ---
 
-# 🚀 What I Build
+## 🎯 Core Expertise
 
-✅ Modern Web Applications
+✅ Full-Stack Development
 
-✅ Cross-Platform Mobile Apps
+✅ SaaS Architecture
+
+✅ AI Integration
+
+✅ REST API Development
+
+✅ Cloud Deployment
 
 ✅ Enterprise Software
 
-✅ AI Applications
+✅ Mobile Development
 
-✅ SaaS Platforms
+✅ UI/UX Implementation
 
-✅ REST APIs
+✅ Database Design
 
-✅ Business Automation
+✅ Performance Optimization
 
-✅ Inventory Systems
-
-✅ Hotel Systems
-
-✅ Hospital Systems
-
-✅ School Systems
-
-✅ CRM & ERP
-
-✅ E-Commerce
-
-✅ Cloud Solutions
+✅ System Architecture
 
 ---
 
@@ -132,7 +120,7 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -168,6 +156,8 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
+# 🚀 Featured Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | 📦 GENZURA | AI-powered Inventory Intelligence SaaS | React • Node • Python • MySQL |
@@ -176,7 +166,7 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 ---
 
-## 🚧 Currently Building
+ ## 🚧 Currently Building
 
 🚀 GENZURA — AI-Powered Inventory Intelligence SaaS
 
@@ -184,6 +174,7 @@ I transform ideas into modern digital experiences that are fast, secure, respons
 
 🇷🇼 Explore Rwanda — Smart Tourism & Business Discovery Platform
 
+🌐 Personal Portfolio v2
 
 ---
 
@@ -205,16 +196,7 @@ Other         30 mins ░░░░░░░░░░░░░░░░░░ 2%
 
 <!--END_SECTION:waka-->
 
----
-
-# 🎯 2026 Goals
-
-- 🚀 Launch GENZURA SaaS
-- 🤖 Build AI Products
-- 📱 Publish Mobile Apps
-- 🌍 Contribute to Open Source
-- ☁️ Learn Kubernetes
-- 🏆 Become a Senior Software Engineer
+--
 
 ---
 
@@ -242,7 +224,7 @@ I'm interested in collaborating on:
 
 📧 oceanbugenimana@gmail.com
 
-🌐 YOUR_PORTFOLIO
+
 
 ---
 
