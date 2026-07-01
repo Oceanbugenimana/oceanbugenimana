@@ -16,7 +16,7 @@ Software Developer crafting scalable Web, Mobile & AI-powered Solutions
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=7F5AF0&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;SaaS+Developer;AI+Solutions+Engineer;Building+Scalable+Digital+Products;Web+%7C+Mobile+%7C+AI+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=7F5AF0&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Developer;SaaS+Developer;AI+Solutions+Developer;Building+Scalable+Digital+Products;Web+%7C+Mobile+%7C+AI+%7C+Cloud)](https://git.io/typing-svg)
 
 </p>
 
