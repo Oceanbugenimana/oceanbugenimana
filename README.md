@@ -25,11 +25,7 @@ Software Developer crafting scalable Web, Mobile & AI-powered Solutions
 
 ## 💫 About Me
 
-I'm a Software Engineer passionate about building scalable web applications, mobile apps, AI-powered solutions, enterprise software, and SaaS products that solve real-world business challenges.
-
-From frontend experiences to backend architecture, APIs, databases, and cloud deployment, I enjoy transforming ideas into secure, high-performance digital products that people love to use.
-
-I believe great software isn't just about writing code—it's about creating reliable, scalable, and impactful solutions.
+Full-Stack Software Developer building scalable Web, Mobile & AI solutions, with a mission to create innovative products that solve real-world problems and make a global impact.
 
 ---
 
