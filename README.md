@@ -62,25 +62,23 @@ Full-Stack Software Developer building scalable Web, Mobile & AI solutions, with
 
 # 💻 Tech Stack
 
-### Frontend
+### Languages
 
-![React](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind)
+![languageL](https://skillicons.dev/icons?i=dart,js,ts,html,css,python)
 
-### Backend
+### Frameworks
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python)
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,next.js,flutter,tailwind)
 
-### Database
+### Cloud & Database
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)
-
-### Cloud & DevOps
-
-![Cloud](https://skillicons.dev/icons?i=docker,git,github,linux)
+![Databases & Cloud](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux)
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,postman,figma)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman)
+
+
 
 
 
