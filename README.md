@@ -123,7 +123,8 @@ I'm interested in collaborating on:
 
 # 📫 Contact
 
-📧 oceanbugenimana@gmail.com
+ *Gmail* :📧 oceanbugenimana@gmail.com
+ *Portifolio* :https://oceanbugenimana.netlify.app/
 
 
 
