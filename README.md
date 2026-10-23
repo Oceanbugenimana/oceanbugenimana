@@ -41,9 +41,7 @@ Full-Stack Software Developer building scalable Web, Mobile & AI solutions, with
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ocean-bugenimana-a9208635b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+
 
 <a href="https://x.com/Bg_ocea">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
